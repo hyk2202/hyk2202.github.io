@@ -16,7 +16,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
-
+theme: cvless
 sass:
   style: compressed
   sourcemap: never
