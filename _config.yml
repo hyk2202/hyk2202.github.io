@@ -391,6 +391,7 @@ compress_html:
 
 sass:
   style:               compressed
+  quiet_deps: true
 
 # Jekyll Compose Defaults
 # ---------------------------------------------------------------------------------------
