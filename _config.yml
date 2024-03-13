@@ -22,8 +22,8 @@ title: 테스트용 제목
 email: hanyoul0107@naver.com
 description: >- # this means to ignore newlines until "baseurl:"
   테스트는 해봐야지
-baseurl: "https://hyk2202.github.io/" # the subpath of your site, e.g. /blog
-url: "https://hyk2202.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://hyk2202.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 트위터는 없습니다.
 github_username:  hyk2202
 sass:
