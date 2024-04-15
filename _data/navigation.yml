@@ -1,51 +1,12 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: /about
-  - title: "Posts"
-    url: /
-  - title: "Dashboard"
-    url: /dashboard
-  - title: "Projects"
-    url: /projects
-  - title: "Contact"
-    url: /contact
-
-categories:
-  - title: "Data Analysis"
-    children:
-      - title: "Machine Learning"
-        url: /categories/ML
-        category: ML
-
-  - title: "Programming Languages"
-    children:
-      - title: "Python"
-        url: /categories/python
-        category: python
-
-  - title: "OS"
-    children:
-      - title: "Linux"
-        url: /categories/linux
-        category: linux
-
-  - title: "Cloud Computing"
-    children:
-      - title: "Oracle"
-        url: /categories/oracle
-        category: oracle
-
-  - title: "etc"
-    children:
-      - title: "VS Code"
-        url: /categories/vscode
-        category: vscode
-      - title: "github-blog"
-        url: /categories/github-blog
-        category: github-blog
-      - title: "Utilities"
-        url: /categories/utilities
-        category: utilities
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
